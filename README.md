@@ -14,7 +14,8 @@ Dropdown for specific books under each Testament:
 
 
 
-Dropdown for Verses:
+Dropdown for Verses in a book:
+
 ![image](https://github.com/gentdimad/Flet---Bible-Assistant/assets/113000044/25133975-4a8c-48e5-bcef-3d52ae9d187e)
 
 
