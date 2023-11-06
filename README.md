@@ -6,7 +6,8 @@ along with the usual Bible navigation found on all Bible apps.
 Implemented with Flet and PySimpleGUI.
 
 Dropdown for Old and New Testament:
-[https://user-images.githubusercontent.com/113000044/280764939-baa5b776-af35-4961-984c-8f3902367f8a.png](https://user-images.githubusercontent.com/113000044/280764939-baa5b776-af35-4961-984c-8f3902367f8a.png)
+![image](https://github.com/gentdimad/Flet---Bible-Assistant/assets/113000044/f11a28e7-6398-4722-9528-871599e20cb8)
+
 
 Dropdown for specific books under each Testament:
 [https://user-images.githubusercontent.com/113000044/280764968-5044eee1-9187-442a-81cd-03ebcdcc6a53.png](https://user-images.githubusercontent.com/113000044/280764968-5044eee1-9187-442a-81cd-03ebcdcc6a53.png)
