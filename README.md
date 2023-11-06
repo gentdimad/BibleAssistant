@@ -10,13 +10,17 @@ Dropdown for Old and New Testament:
 
 
 Dropdown for specific books under each Testament:
-[https://user-images.githubusercontent.com/113000044/280764968-5044eee1-9187-442a-81cd-03ebcdcc6a53.png](https://user-images.githubusercontent.com/113000044/280764968-5044eee1-9187-442a-81cd-03ebcdcc6a53.png)
+![image](https://github.com/gentdimad/Flet---Bible-Assistant/assets/113000044/ee2c8c92-e7ac-4ca3-94dd-7b1f97b77042)
+
 
 Dropdown for Verses:
-https://user-images.githubusercontent.com/113000044/280764954-2cefd703-4002-4f0b-a691-329e0e9c8fae.png
+![image](https://github.com/gentdimad/Flet---Bible-Assistant/assets/113000044/25133975-4a8c-48e5-bcef-3d52ae9d187e)
+
 
 Navigating to a different book and verse:
-https://user-images.githubusercontent.com/113000044/280764959-96ee9e5b-4c38-4578-838a-a60be3521651.png
+![image](https://github.com/gentdimad/Flet---Bible-Assistant/assets/113000044/b075eeb9-2a40-4457-ac91-2045847bab68)
+
 
 Keyword Search Feature:
-https://user-images.githubusercontent.com/113000044/280764962-1794cc49-cf2a-40dc-8744-c8004d4dc26e.png
+![image](https://github.com/gentdimad/Flet---Bible-Assistant/assets/113000044/1eb6afb4-2309-4c37-920a-3675f906d360)
+
