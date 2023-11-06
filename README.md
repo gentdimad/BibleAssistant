@@ -13,6 +13,7 @@ Dropdown for specific books under each Testament:
 ![image](https://github.com/gentdimad/Flet---Bible-Assistant/assets/113000044/ee2c8c92-e7ac-4ca3-94dd-7b1f97b77042)
 
 
+
 Dropdown for Verses:
 ![image](https://github.com/gentdimad/Flet---Bible-Assistant/assets/113000044/25133975-4a8c-48e5-bcef-3d52ae9d187e)
 
